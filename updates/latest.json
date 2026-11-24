@@ -1,0 +1,8 @@
+{
+  "packageName": "com.agendapersonaldomicilios",
+  "versionCode": 19,
+  "versionName": "0.25.0",
+  "apkUrl": "https://github.com/delosrios9301-cpu/AgendaPersonalReleases/releases/download/v0.25.0/AgendaPersonal-0.25.0.apk",
+  "sha256": "c1c8cc90fdb99006135ffb76e2bd93c2c3476ec79051b9b09fb08041c9471824",
+  "signerSha256": "5d9ebcdba5af6033bdeba1432a11a40c281f9330d762a327f5f56a11c62aabe2"
+}
