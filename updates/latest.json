@@ -1,8 +1,8 @@
 {
   "packageName": "com.agendapersonaldomicilios",
-  "versionCode": 50,
-  "versionName": "3.2.15",
-  "apkUrl": "https://github.com/delosrios9301-cpu/AgendaPersonalReleases/releases/download/v3.2.15/AgendaPersonal-3.2.15.apk",
-  "sha256": "cb41cd0edb3c1fa19eedd93ae77dbb2532141f78744bf2f9eb42e7e14938e704",
+  "versionCode": 51,
+  "versionName": "3.2.16",
+  "apkUrl": "https://github.com/delosrios9301-cpu/AgendaPersonalReleases/releases/download/v3.2.16/AgendaPersonal-3.2.16.apk",
+  "sha256": "3994789473cc08ebc830d68b1817bed2d40410d4439d15d6e90b437167632ff1",
   "signerSha256": "5d9ebcdba5af6033bdeba1432a11a40c281f9330d762a327f5f56a11c62aabe2"
 }
